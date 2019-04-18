@@ -1,0 +1,15 @@
+.moc/
+.obj/
+
+Makefile
+.qmake.stash
+
+*.html
+*.js
+*.js_plugin_import.cpp
+*.js_qml_plugin_import.cpp
+*.pro.user
+*.wasm
+
+qtlogo.svg
+qrc_qml.cpp
